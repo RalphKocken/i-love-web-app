@@ -1,0 +1,55 @@
+
+[
+    {
+        "id": "CSS-Units",
+        "title": "CSS Height Units",
+        "description": "A tutorial about the right way to style something with view heights.",
+        "image": "/images/VhUnitsImage.jpg"
+    },
+    {
+        "id": "SvelteKit-PageTransitions",
+        "title": "Sveltekit Page Transitions",
+        "description": "A tutorial about implementing page transitions in Sveltekit.",
+        "image": "/images/SvelteKitPageTransitions.png"
+    },
+    {
+        "id": "Scroll-Driven-Animations",
+        "title": "Scroll Driven Animations",
+        "description": "A bunch of demos and tools to show off Scroll-driven Animations.",
+        "image": "/images/ScrollDrivenAnimations.png"
+    },
+    {
+        "id": "JavaScript-Promises",
+        "title": "Javascript Promises",
+        "description": "A tutorial about what JavaScript promises are and how to use them.",
+        "image": "/images/JavaScriptPromises.jpg"
+    },
+    {
+        "id": "Accessibility-Sucks",
+        "title": "Accessibility Sucks",
+        "description": "A tutorial about how to build an accessible website.",
+        "image": "/images/AccessibilitySucks.jpg"
+    },
+    {
+        "id": "Dribble-Designs",
+        "title": "Blog Designs from Dribble",
+        "description": "A nice collections of blog designs",
+        "image": "/images/Dribble.png"
+    },
+    {
+        "id": "Awwwards",
+        "title": "Inspiration from Awwwards",
+        "description": "General inspiration for a lot of things..",
+        "image": "/images/awwwards.png"
+    },
+    {
+        "id": "New-CSS-features",
+        "title": "New CSS features",
+        "description": "One of my favorite YouTubers talking about new CSS features",
+        "image": "/images/newCSSfeatures.jpg"
+    }
+
+]
+
+
+    

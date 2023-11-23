@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    /* FONTS */
+    --title-font:'Cousine', monospace;
+    --primary-font:'Comfortaa', sans-serif;
+
+    /* COLORS */
+    --light-text-color: #ffffff;
+    --dark-text-color: #000000;
+    --sub-text-color:#a9a9a9;
+    --main-bg-color: #000000;
+}
