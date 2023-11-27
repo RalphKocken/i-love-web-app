@@ -3,7 +3,7 @@
 </script>
 
 <article>
-    <img src="{post.image}" alt="{post.title}" style:--image="image-{post.id}">
+    <img src="{post.image}" alt="{post.title}" style:--image="image-{post.id}" loading="lazy">
     <div>
         <a href="/{post.id}" style:--title="title-{ post.id }">{post.title}</a>
         <p style:--description="description-{ post.id }">{post.description}</p>

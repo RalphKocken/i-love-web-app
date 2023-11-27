@@ -18,7 +18,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        background: linear-gradient(180deg, rgba(255,255,255,0) 0%, rgba(0,0,0,1) 84%), url("/images/iloveweb.jpg");
+        background: linear-gradient(180deg, rgba(255,255,255,0) 0%, rgba(0,0,0,1) 84%), url("/images/iloveweb.webp");
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
