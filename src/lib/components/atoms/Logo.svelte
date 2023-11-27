@@ -3,22 +3,23 @@
     let redHeart
 </script>
 
-<article>
+<h1>
     <section>
         <span>I</span>
         <img src="/images/iloveweb.svg" alt="red heart" bind:this={redHeart}>
     </section>
     <span>WEB</span>
-</article>
+</h1>
 
 <style>
 
-article{
+h1{
     background-color: transparent;
     font-size: 100px;
     font-family: var(--title-font);
     width: fit-content;
     color: var(--light-text-color);
+    font-weight: 400;
 }
 
 section{
