@@ -4,49 +4,57 @@
         "id": "CSS-Units",
         "title": "CSS Height Units",
         "description": "A tutorial about the right way to style something with view heights.",
-        "image": "/images/VhUnitsImage.jpg"
+        "image": "/images/VhUnitsImage.jpg",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
     },
     {
         "id": "SvelteKit-PageTransitions",
         "title": "Sveltekit Page Transitions",
         "description": "A tutorial about implementing page transitions in Sveltekit.",
-        "image": "/images/SvelteKitPageTransitions.png"
+        "image": "/images/SvelteKitPageTransitions.png",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
     },
     {
         "id": "Scroll-Driven-Animations",
         "title": "Scroll Driven Animations",
         "description": "A bunch of demos and tools to show off Scroll-driven Animations.",
-        "image": "/images/ScrollDrivenAnimations.png"
+        "image": "/images/ScrollDrivenAnimations.png",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
     },
     {
         "id": "JavaScript-Promises",
         "title": "Javascript Promises",
         "description": "A tutorial about what JavaScript promises are and how to use them.",
-        "image": "/images/JavaScriptPromises.jpg"
+        "image": "/images/JavaScriptPromises.jpg",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
     },
     {
         "id": "Accessibility-Sucks",
         "title": "Accessibility Sucks",
         "description": "A tutorial about how to build an accessible website.",
-        "image": "/images/AccessibilitySucks.jpg"
+        "image": "/images/AccessibilitySucks.jpg",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
     },
     {
         "id": "Dribble-Designs",
         "title": "Blog Designs from Dribble",
         "description": "A nice collections of blog designs",
-        "image": "/images/Dribble.png"
+        "image": "/images/Dribble.png",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
     },
     {
         "id": "Awwwards",
         "title": "Inspiration from Awwwards",
         "description": "General inspiration for a lot of things..",
-        "image": "/images/awwwards.png"
+        "image": "/images/awwwards.png",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
     },
     {
         "id": "New-CSS-features",
         "title": "New CSS features",
         "description": "One of my favorite YouTubers talking about new CSS features",
-        "image": "/images/newCSSfeatures.jpg"
+        "image": "/images/newCSSfeatures.jpg",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
     }
 
 ]

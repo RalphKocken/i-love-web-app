@@ -1,7 +1,7 @@
 <script>
     //DATA
-    import articleData from '$lib/data/articleData.json';
-    
+    export let data
+
     //ATOM COMPONENTS
 
     //MOLECULE COMPONENTS
@@ -15,9 +15,9 @@
 <main>
     <Hero />
     <ol>
-        {#each articleData as article}
+        {#each data.summaries as post}
             <li>
-                <Article {article}/>
+                <Article {post}/>
             </li>   
         {/each}
     </ol>
@@ -37,12 +37,12 @@
     
     ol li{
         width: 100%;
-        height: 50vh;
+        /* height: 50vh; */
         overflow: hidden;
         border-radius: 10px;
-        animation: fade linear both;
+        /* animation: fade linear both;
         animation-timeline: view(block);
-        animation-range: entry 0% entry 100%;
+        animation-range: entry 0% entry 100%; */
     }
 
     @keyframes fade{

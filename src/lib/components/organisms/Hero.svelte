@@ -32,23 +32,6 @@
         max-width: 30rem;
     }
 
-    article{
-        animation: slide-up 1s ease-in-out;
-    }
-
-    @keyframes slide-up{
-        0% {
-            transform: translateY(20px);
-            opacity: 0;
-        }
-        100%{
-            opacity: 1;
-            transform: translateY(0px);
-        }
-    }
-
-
-
     article h2{
         font-family: var(--title-font);
         margin-top: 1rem;
